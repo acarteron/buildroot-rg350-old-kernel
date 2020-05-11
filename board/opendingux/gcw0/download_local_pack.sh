@@ -50,9 +50,6 @@ dl "${RGH_OD_REPO}/Applications/Oldplay.opk"
 # Bard | E-book reader
 dl "${RGH_OD_REPO}/Applications/Bard.opk"
 
-# Glutexto | Text editor
-dl "${RGH_OD_REPO}/Applications/Glutexto.opk"
-
 # GMU
 dl "${SEONG_RG350_REPO}/Applications/gmu-0.10.1-gcw0.opk"
 
@@ -61,9 +58,6 @@ dl https://github.com/glebm/rs97_st-sdl/releases/latest/download/st-rg350.opk
 
 # HWTest | Input tester
 dl "${RGH_OD_REPO}/Applications/HWTest.opk"
-
-# Built as part of the buildroot:
-# * DinguxCommander
 
 ## Emulators
 # Some renamed after download to default names used by SimpleMenu:

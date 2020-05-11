@@ -26,6 +26,7 @@ comment "Libraries"
 
 comment "System tools"
 	source "$BR2_EXTERNAL_OPENDINGUX_PATH/package/od-network-config/Config.in"
+
 	source "$BR2_EXTERNAL_OPENDINGUX_PATH/package/pwswd/Config.in"
 
 comment "Utilities"
